@@ -1,0 +1,32 @@
+.education-column {
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    margin: 4px;
+}
+
+.education-column h5 {
+    margin: 0px;
+    font-family: 'IBM Plex Sans';
+    color: rgb(0, 45, 101);
+    font-weight: 400;
+}
+
+.education-column img {
+    height: 64px;
+    object-fit: contain;
+    margin: 8px 0px;
+}
+
+.education-view {
+    background-color: rgb(211, 231, 255);
+    border-radius: 12px;
+    padding: 8px;
+}
+
+.education-view h2 {
+    margin: 4px 0px 4px 0px;
+    font-family: 'IBM Plex Sans';
+    color: rgb(0, 45, 101);
+    font-size: large;
+}
