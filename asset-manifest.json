@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a32472b.css",
+    "main.js": "/static/js/main.0399ec60.js",
+    "static/js/787.73e89629.chunk.js": "/static/js/787.73e89629.chunk.js",
+    "static/media/presentation.jpeg": "/static/media/presentation.d7641988108e4e70a8bd.jpeg",
+    "static/media/tcairem.jpeg": "/static/media/tcairem.85f40466524e3ed1488e.jpeg",
+    "static/media/utaustin.jpeg": "/static/media/utaustin.71a2acade28fbec39496.jpeg",
+    "static/media/mcasom.jpeg": "/static/media/mcasom.91d43f854e68c3d7a903.jpeg",
+    "static/media/biodatamining.png": "/static/media/biodatamining.7401f1f34f59f2c9225e.png",
+    "static/media/mayo.jpg": "/static/media/mayo.44149a324bb01e44b2cc.jpg",
+    "static/media/nature.jpg": "/static/media/nature.98de14d9316beef0eeac.jpg",
+    "static/media/mcmaster.jpg": "/static/media/mcmaster.c9f198cdbfe769a36135.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.1a32472b.css.map": "/static/css/main.1a32472b.css.map",
+    "main.0399ec60.js.map": "/static/js/main.0399ec60.js.map",
+    "787.73e89629.chunk.js.map": "/static/js/787.73e89629.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a32472b.css",
+    "static/js/main.0399ec60.js"
+  ]
+}
